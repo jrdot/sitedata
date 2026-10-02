@@ -1,0 +1,21 @@
+HTTrack3.50-4 launched on Wed, 30 Sep 2026 06:48:54 at http://easycable.co.kr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -* +easycable.co.kr/* -easycable.co.kr/js/vendor/esp-web-tools/js/js/*
+(winhttrack -qwr3%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "kr, en, *" http://easycable.co.kr/ -O1 "d:\web\easy2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -* +easycable.co.kr/* -easycable.co.kr/js/vendor/esp-web-tools/js/js/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:48:55	Warning: 	Moved Permanently for easycable.co.kr/robots.txt
+06:48:55	Warning: 	Warning moved treated for easycable.co.kr/robots.txt (real one is https://easycable.co.kr/robots.txt)
+06:48:56	Warning: 	File not parsed, looks like binary: https://easycable.co.kr/robots.txt
+06:48:56	Warning: 	Moved Permanently for easycable.co.kr/?
+06:48:56	Warning: 	Redirect to a same-file alias, fetching real content: easycable.co.kr/? -> https://easycable.co.kr/?
+06:48:56	Warning: 	Warning moved treated for easycable.co.kr/? (real one is https://easycable.co.kr/?)
+06:49:11	Warning: 	File not parsed, looks like binary: https://easycable.co.kr/robots.txt
+06:49:11	Error: 	"Not Found" (404) at link https://easycable.co.kr/cdn-cgi/l/email-protection (from https://easycable.co.kr/?)
+06:49:11	Warning: 	Link https://easycable.co.kr/checkout?plan=month not scanned (follow robots meta tag)
+06:49:11	Warning: 	Link https://easycable.co.kr/checkout?plan=year not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.50-4 mirror complete in 17 seconds : 38 links scanned, 33 files written (3622577 bytes overall) [3179595 bytes received at 187035 bytes/sec], 842074 bytes transferred using HTTP compression in 23 files, ratio 35%, 9.8 requests per connection
+(1 errors, 9 warnings, 0 messages)
